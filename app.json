@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "AturWang",
+    "slug": "aturwang",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "aturwang",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#1E293B"
+    },
+    "android": {
+      "package": "com.saifur.aturwang",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#2563EB"
+      }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ]
+  }
+}
+
